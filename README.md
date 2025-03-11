@@ -3,11 +3,11 @@
 Основное:
 
 ## Two pointers.  
-✅  [Container With Most Water]( https://leetcode.com/problems/container-with-most-water/)
+✅  [Container With Most Water]( https://leetcode.com/problems/container-with-most-water/) | [Video](https://www.youtube.com/watch?v=UuiTKBwPgAo) | [Code](./two_pointers/container_with_most_water.py)
 
-✅  [Partition Labels](https://leetcode.com/problems/partition-labels/)
+✅  [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Video](https://www.youtube.com/watch?v=B7m8UmZE-vw) | [Code](./two_pointers/partition_labels.py)
 
-https://leetcode.com/problems/squares-of-a-sorted-array/ 
+✅  [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Video](https://www.youtube.com/watch?v=FPCZsG_AkUg) | [Code](./two_pointers/squares_of_a_sorted_array.py)
 
 https://leetcode.com/problems/subarray-sum-equals-k/ 
 
