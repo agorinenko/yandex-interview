@@ -56,9 +56,9 @@
 
 ## Linked lists
 
-❌  [](https://leetcode.com/problems/merge-k-sorted-lists/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+❌  [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
 
-❌  [](https://leetcode.com/problems/reverse-linked-list/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+❌  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
 
 ## Dfs/bfs
 
