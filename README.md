@@ -12,7 +12,7 @@
 
 ## Hash table
 
-❌  [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Video](https://www.youtube.com/watch?v=G8xtZy0fDKg) | [Code](./hash_table/find_all_anagrams_in_a_string.py)
+✅  [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Video](https://www.youtube.com/watch?v=G8xtZy0fDKg) | [Code](./hash_table/find_all_anagrams_in_a_string.py)
 
 ❌  [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Video](https://www.youtube.com/) | [Code](./hash_table/find_all_anagrams_in_a_string.py)
 
