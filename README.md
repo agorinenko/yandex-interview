@@ -1,8 +1,6 @@
 # Подготовка к яндекс интервью
 
-Основное:
-
-## Two pointers.
+## Two pointers
 
 ✅  [Container With Most Water]( https://leetcode.com/problems/container-with-most-water/) | [Video](https://www.youtube.com/watch?v=UuiTKBwPgAo) | [Code](./two_pointers/container_with_most_water.py)
 
@@ -12,68 +10,80 @@
 
 ✅  [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Video](https://www.youtube.com/watch?v=fFVZt-6sgyo) | [Code](./two_pointers/subarray_sum_equals_k.py)
 
-2. Hash table.
+## Hash table
 
-https://leetcode.com/problems/find-all-anagrams-in-a-string/
+❌  [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Video](https://www.youtube.com/watch?v=G8xtZy0fDKg) | [Code](./hash_table/find_all_anagrams_in_a_string.py)
 
-https://leetcode.com/problems/permutation-in-string/ https://leetcode.com/problems/single-number/ (решить за O(1) по
-памяти)
+❌  [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Video](https://www.youtube.com/) | [Code](./hash_table/find_all_anagrams_in_a_string.py)
 
-https://leetcode.com/problems/two-sum/
+❌  [Single Number](https://leetcode.com/problems/single-number/) | [Video](https://www.youtube.com/) | [Code](./hash_table/find_all_anagrams_in_a_string.py)
 
-https://leetcode.com/problems/4sum/
+❌  [Two Sum](https://leetcode.com/problems/two-sum/) | [Video](https://www.youtube.com/) | [Code](./hash_table/find_all_anagrams_in_a_string.py)
 
-https://leetcode.com/problems/group-anagrams/
+❌  [4Sum](https://leetcode.com/problems/4sum/) | [Video](https://www.youtube.com/) | [Code](./hash_table/find_all_anagrams_in_a_string.py)
 
-https://leetcode.com/problems/valid-anagram/
+❌  [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Video](https://www.youtube.com/) | [Code](./hash_table/find_all_anagrams_in_a_string.py)
 
-3. Sort.
+❌  [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Video](https://www.youtube.com/) | [Code](./hash_table/find_all_anagrams_in_a_string.py)
 
-https://leetcode.com/problems/merge-intervals/
+## Sort
 
-4. Queue/stack.
+❌  [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Video](https://www.youtube.com/) | [Code](./sort)
 
-https://leetcode.com/problems/valid-parentheses/
+## Queue/stack
 
-5. Sliding window.
+❌  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
 
-https://leetcode.com/problems/sliding-window-median/
-https://leetcode.com/problems/sliding-window-maximum/
-https://leetcode.com/problems/longest-repeating-character-replacement/
+## Sliding window
 
-6. Iterator.
+❌  [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
 
-https://leetcode.com/problems/peeking-iterator/
+❌  [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
 
-7. Greedy problems.
+❌  [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
 
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+## Iterator
 
-8. Linked lists.
+❌  [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
 
-https://leetcode.com/problems/merge-k-sorted-lists/
-https://leetcode.com/problems/reverse-linked-list/
+## Greedy problems
 
-9. Dfs/bfs.
+❌  [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
 
-https://leetcode.com/problems/number-of-islands/
-https://leetcode.com/problems/remove-invalid-parentheses/
+❌  [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
 
-10. Heap/hash.
+❌  [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
 
-https://leetcode.com/problems/top-k-frequent-words/
-https://leetcode.com/problems/top-k-frequent-elements/
+## Linked lists
 
-11. Binary search.
+❌  [](https://leetcode.com/problems/merge-k-sorted-lists/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
 
-https://leetcode.com/problems/binary-search/
-https://leetcode.com/problems/guess-number-higher-or-lower/
+❌  [](https://leetcode.com/problems/reverse-linked-list/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
 
-12. Tree.
+## Dfs/bfs
 
-https://leetcode.com/problems/same-tree/
-https://leetcode.com/problems/symmetric-tree/
-https://leetcode.com/problems/balanced-binary-tree/
-https://leetcode.com/problems/path-sum-ii/
+❌  [Merge k Sorted Lists](https://leetcode.com/problems/number-of-islands/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+
+❌  [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+
+## Heap/hash
+
+❌  [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+
+❌  [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+
+## Binary search
+
+❌  [Binary Search](https://leetcode.com/problems/binary-search/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+
+❌  [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+
+## Tree
+
+❌  [Same Tree](https://leetcode.com/problems/same-tree/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+
+❌  [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+
+❌  [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+
+❌  [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
