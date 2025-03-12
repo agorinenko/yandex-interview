@@ -16,7 +16,7 @@
 
 ✅  [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Video](https://www.youtube.com/watch?v=UbyhOgBN834) | [Code](./hash_table/permutation_in_string.py)
 
-❌  [Single Number](https://leetcode.com/problems/single-number/) | [Video](https://www.youtube.com/) | [Code](./hash_table/find_all_anagrams_in_a_string.py)
+✅  [Single Number](https://leetcode.com/problems/single-number/) | [Video](https://www.youtube.com/watch?v=qMPX1AOa83k) | [Code](./hash_table/single_number.py)
 
 ❌  [Two Sum](https://leetcode.com/problems/two-sum/) | [Video](https://www.youtube.com/) | [Code](./hash_table/find_all_anagrams_in_a_string.py)
 

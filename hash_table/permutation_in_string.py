@@ -36,6 +36,9 @@ def is_inclusion(example: dict, target: dict) -> bool:
 
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
+        """
+        Смотри пояснения в ./hash_table/find_all_anagrams_in_a_string.py
+        """
         if len(s1) > len(s2):
             return False
         l, r = 0, len(s1)

@@ -40,6 +40,10 @@ def is_anagram(window_code: dict, p_code: dict) -> bool:
 
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
+        """
+        Time Complexity: O(N), where N is the length of S.
+        Space Complexity: O(1) to keep data structure last of not more than 26 characters.
+        """
         if len(s) < len(p):
             return []
 
