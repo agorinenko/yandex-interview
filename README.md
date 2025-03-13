@@ -20,7 +20,7 @@
 
 ✅  [Two Sum](https://leetcode.com/problems/two-sum/) | [Video](https://www.youtube.com/watch?v=KLlXCFG5TnA) | [Code](./hash_table/two_sum.py)
 
-❌  [4Sum](https://leetcode.com/problems/4sum/) | [Video](https://www.youtube.com/) | [Code](./hash_table/find_all_anagrams_in_a_string.py)
+✅  [4Sum](https://leetcode.com/problems/4sum/) | [Video](https://www.youtube.com/watch?v=EYeR-_1NRlQ) | [Code](./hash_table/k_sum.py)
 
 ❌  [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Video](https://www.youtube.com/) | [Code](./hash_table/find_all_anagrams_in_a_string.py)
 
