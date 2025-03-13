@@ -24,7 +24,7 @@
 
 ✅  [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Video](https://www.youtube.com/watch?v=vzdNOK2oB2E) | [Code](./hash_table/group_anagrams.py)
 
-❌  [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Video](https://www.youtube.com/) | [Code](./hash_table/find_all_anagrams_in_a_string.py)
+✅  [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Video](https://www.youtube.com/watch?v=9UtInBqnCgA) | [Code](./hash_table/valid_anagram.py)
 
 ## Sort
 
