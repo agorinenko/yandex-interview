@@ -22,7 +22,7 @@
 
 ✅  [4Sum](https://leetcode.com/problems/4sum/) | [Video](https://www.youtube.com/watch?v=EYeR-_1NRlQ) | [Code](./hash_table/k_sum.py)
 
-❌  [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Video](https://www.youtube.com/) | [Code](./hash_table/find_all_anagrams_in_a_string.py)
+✅  [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Video](https://www.youtube.com/watch?v=vzdNOK2oB2E) | [Code](./hash_table/group_anagrams.py)
 
 ❌  [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Video](https://www.youtube.com/) | [Code](./hash_table/find_all_anagrams_in_a_string.py)
 
