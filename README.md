@@ -32,7 +32,7 @@
 
 ## Queue/stack
 
-❌  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+✅  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Video](https://www.youtube.com/watch?v=QhPdNS143Qg) | [Code](./queue_and_stack/valid_parentheses.py)
 
 ## Sliding window
 
