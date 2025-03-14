@@ -36,11 +36,11 @@
 
 ## Sliding window
 
-❌  [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+❌  [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [Video](https://www.youtube.com/) | [Code](./sliding_window/sliding_window_median.py)
 
-❌  [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+✅  [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Text](https://algo.monster/problems/sliding_window_maximum) | [Video](https://www.youtube.com/watch?v=DfljaUwZsOk) | [Code](./sliding_window/sliding_window_maximum.py)
 
-❌  [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+❌  [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Video](https://www.youtube.com/) | [Code](./sliding_window)
 
 ## Iterator
 
