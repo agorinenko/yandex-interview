@@ -40,7 +40,7 @@
 
 ✅  [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Text](https://algo.monster/problems/sliding_window_maximum) | [Video](https://www.youtube.com/watch?v=DfljaUwZsOk) | [Code](./sliding_window/sliding_window_maximum.py)
 
-❌  [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Video](https://www.youtube.com/) | [Code](./sliding_window)
+✅  [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Video](https://www.youtube.com/watch?v=gqXU1UyA8pk) | [Code](./sliding_window/longest_repeating_character_replacement.py)
 
 ## Iterator
 
