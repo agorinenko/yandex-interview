@@ -62,9 +62,9 @@
 
 ## Dfs/bfs
 
-❌  [Merge k Sorted Lists](https://leetcode.com/problems/number-of-islands/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+✅  [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Video](https://www.youtube.com/watch?v=pV2kpPD66nE) | [Code](./dfs_and_bfs/number_of_islands.py)
 
-❌  [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+✅  [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Video](https://www.youtube.com/watch?v=mgQ4O9iUEbg) | [Code](./dfs_and_bfs/remove_invalid_parentheses.py)
 
 ## Heap/hash
 
