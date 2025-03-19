@@ -14,6 +14,8 @@
 
 ✅  [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Video](https://www.youtube.com/watch?v=fFVZt-6sgyo) | [Code](./two_pointers/subarray_sum_equals_k.py)
 
+✅  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Video](https://www.youtube.com/watch?v=jJXJ16kPFWg) | [Code](./two_pointers/valid_palindrome.py)
+
 ## Hash table
 
 ✅  [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Video](https://www.youtube.com/watch?v=G8xtZy0fDKg) | [Code](./hash_table/find_all_anagrams_in_a_string.py)
@@ -37,6 +39,8 @@
 ## Queue/stack
 
 ✅  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Video](https://www.youtube.com/watch?v=QhPdNS143Qg) | [Code](./queue_and_stack/valid_parentheses.py)
+
+[//]: # (✅  [Valid Palindrome II]&#40;https://leetcode.com/problems/valid-palindrome-ii/&#41; | [Code]&#40;./queue_and_stack/valid_palindrome_ii.py&#41;)
 
 ## Sliding window
 
