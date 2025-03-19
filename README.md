@@ -1,8 +1,12 @@
-# Подготовка к яндекс интервью
+# Подготовка к live coding, algorithm интервью
+
+## Arrays
+
+✅  [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [Text](https://algo.monster/liteproblems/989) | [Code](./arrays/add_to_array_form_of_integer.py) *Avito
 
 ## Two pointers
 
-✅  [Container With Most Water]( https://leetcode.com/problems/container-with-most-water/) | [Video](https://www.youtube.com/watch?v=UuiTKBwPgAo) | [Code](./two_pointers/container_with_most_water.py)
+✅  [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Video](https://www.youtube.com/watch?v=UuiTKBwPgAo) | [Code](./two_pointers/container_with_most_water.py)
 
 ✅  [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Video](https://www.youtube.com/watch?v=B7m8UmZE-vw) | [Code](./two_pointers/partition_labels.py)
 
