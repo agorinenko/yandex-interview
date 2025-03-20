@@ -2,7 +2,7 @@
 
 ## Arrays
 
-✅  [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [Text](https://algo.monster/liteproblems/989) | [Code](./arrays/add_to_array_form_of_integer.py) *Avito
+✅  [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [Text](https://algo.monster/liteproblems/989) | [Code](./arrays/add_to_array_form_of_integer.py) 
 
 ## Two pointers
 
@@ -39,8 +39,6 @@
 ## Queue/stack
 
 ✅  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Video](https://www.youtube.com/watch?v=QhPdNS143Qg) | [Code](./queue_and_stack/valid_parentheses.py)
-
-[//]: # (✅  [Valid Palindrome II]&#40;https://leetcode.com/problems/valid-palindrome-ii/&#41; | [Code]&#40;./queue_and_stack/valid_palindrome_ii.py&#41;)
 
 ## Sliding window
 
@@ -82,9 +80,9 @@
 
 ## Binary search
 
-❌  [Binary Search](https://leetcode.com/problems/binary-search/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+✅  [Binary Search](https://leetcode.com/problems/binary-search/) | [Text](https://algo.monster/liteproblems/704)  | [Video](https://www.youtube.com/watch?v=s4DPM8ct1pI) | [Code](./binary_search/binary_search.py)
 
-❌  [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+❌  [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Video](https://www.youtube.com/) | [Code](./binary_search)
 
 ## Tree
 
