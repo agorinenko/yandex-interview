@@ -82,14 +82,14 @@
 
 ✅  [Binary Search](https://leetcode.com/problems/binary-search/) | [Text](https://algo.monster/liteproblems/704)  | [Video](https://www.youtube.com/watch?v=s4DPM8ct1pI) | [Code](./binary_search/binary_search.py)
 
-✅  [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Video](https://www.youtube.com/) | [Code](./binary_search/guess_number_higher_or_lower.py)
+✅  [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Video](https://www.youtube.com/watch?v=xW4QsTtaCa4) | [Code](./binary_search/guess_number_higher_or_lower.py)
 
 ## Tree
 
-❌  [Same Tree](https://leetcode.com/problems/same-tree/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+✅  [Same Tree](https://leetcode.com/problems/same-tree/) | [Video](https://www.youtube.com/watch?v=vRbbcKXCxOw) | [Code](./tree/same_tree.py)
 
-❌  [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+❌  [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Video](https://www.youtube.com/) | [Code](./tree/)
 
-❌  [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+❌  [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Video](https://www.youtube.com/) | [Code](./tree/)
 
-❌  [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Video](https://www.youtube.com/) | [Code](./queue_and_stack)
+❌  [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Video](https://www.youtube.com/) | [Code](./tree/)
