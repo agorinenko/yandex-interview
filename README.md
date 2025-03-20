@@ -82,7 +82,7 @@
 
 ✅  [Binary Search](https://leetcode.com/problems/binary-search/) | [Text](https://algo.monster/liteproblems/704)  | [Video](https://www.youtube.com/watch?v=s4DPM8ct1pI) | [Code](./binary_search/binary_search.py)
 
-❌  [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Video](https://www.youtube.com/) | [Code](./binary_search)
+✅  [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Video](https://www.youtube.com/) | [Code](./binary_search/guess_number_higher_or_lower.py)
 
 ## Tree
 
