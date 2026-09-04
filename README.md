@@ -76,7 +76,7 @@
 
 ✅  [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Text](https://algo.monster/liteproblems/692) | [Code](./heap_and_hash/top_k_frequent_words.py)
 
-✅  [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Text](https://algo.monster/liteproblems/347)  | [Video](https://www.youtube.com/watch?v=YPTqKIgVk-k) | [Code](./heap_and_hash/top_k_frequent_elements.py)
+✅  [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Text](https://algo.monster/liteproblems/347)  | [Video](https://www.youtube.com/watch?v=YPTqKIgVk-k) | [Code](./heap_and_hash/top_k_frequent_elements.py) | [PracHub](https://prachub.com/resources/top-k-frequent-elements)
 
 ## Binary search
 
